@@ -1,0 +1,1 @@
+# Vite SSR boiler plate with React Router and Redux
